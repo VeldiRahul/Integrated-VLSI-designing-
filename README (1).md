@@ -18,31 +18,32 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Veldi Rahul </p>
+    <p><strong>Email ID:</strong> rahulveldi@gmail.com </p>
+    <p><strong>College Name:</strong> Lovely Professional University  </p>
+    <p><strong>Branch/Specialization :</strong>  Electronics and Communication Engineering </p>
+    <p><strong>College ID:</strong> 12312947 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Integrated VLSI designing  </p>
+    <p><strong>Instructor Name: Mr.Sathish Devarapalli (Emulation Verification Engineering  at Apple) </p>
+                              <p> Mr.Gopinath Polisetty (Lead Verification Engineering at Quest Global) </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong>  6 - month </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Sathish Devarapalli </p>
+<p><strong>Trainer Email ID:</strong> satish.us.accounts@gmail </p>
+<p><strong>Trainer Designation:</strong> Emulation Verification at Apple</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,77 +64,48 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+This project strengthened my understanding of end-to-end UVM verification by designing a complete verification environment for a vending machine system. I learned to model transactions, develop sequences, build agents, integrate scoreboards and reference models, debug protocol and sequencing issues, and analyze functional mismatches. The work improved my skills in SystemVerilog, UVM methodology, debugging, and verification planning, with practical exposure to real-world DV workflows.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project1">Project 1:</a> </strong> Vending Machine System </p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Vending Machine System </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+This project involved designing, implementing, and verifying a complete vending machine system using industry-standard SystemVerilog and UVM methodology. It focused on analyzing functional requirements, structuring a modular RTL design, and developing a comprehensive verification environment. The work included transaction modeling, sequence creation, agent and environment integration, reference model development, scoreboard checking, and error-scenario validation, ensuring correct operation across configuration, item selection, currency handling, and dispense flows.
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://drive.google.com/file/d/1WCmjZDqAm_oRYgOB-TADvTEa5aYKbBnh/view?usp=sharing" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- [Chip Verify](https://www.chipverify.com/verilog/verilog-tutorial)
+- [Verilog Verify](https://vlsiverify.com/verilog/)
+- [Verification Guide](https://verificationguide.com/)
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+From the LST sessions, I learned social awareness, ethical behavior, current affairs understanding, effective communication, and professional conduct, which helped me improve personal values, social responsibility, and day-to-day life skills.
+
+From the SST sessions, I gained placement-oriented training, including interview preparation, company culture awareness, professional behavior during recruitment drives, resume handling, and effective use of AI tools, which enhanced my job readiness and career confidence.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+During my internship period, I actively participated in community service activities focused on social responsibility and environmental awareness. I completed plantation activities by planting two saplings, contributed to blood donation awareness, and provided assistance and support to two senior citizens as part of social service initiatives.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+These activities helped me develop empathy, civic responsibility, teamwork, and ethical values, while understanding the importance of giving back to society. All activities were carried out as per the guidelines and documented with proper identification details.
 
 ### **Activities Involved**
 <!-- add the location where you given -->
@@ -182,8 +154,12 @@ The internship certificate serves as an official acknowledgment of the successfu
 ---
 
 ## **Acknowledgments**
-
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust]      (https://www.suretrustforruralyouth.com/)
+- [Prof. Satish Devarapalli](https://www.linkedin.com/in/satishdevarapalli/), Emulation Verification Manager at Apple
+- [prof. Dev Chadha](https://www.linkedin.com/in/chadhadev2002/), R&D Engineer at Quit Labs
+- [prof. Gopinath Polisetty](https://www.linkedin.com/in/gopinath-polisetty-a37951156/), Lead Verification Engineer at Quest Global
+- [prof. Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-6b1236233/), Formal Varification Engineer at AMD
+- [prof. Susmitha Priya Pididi](https://www.linkedin.com/in/sushmitha-priya-pididi-350717129), Physical Design Engineer
 
