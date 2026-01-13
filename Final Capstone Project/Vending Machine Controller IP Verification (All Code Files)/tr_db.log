@@ -1,0 +1,7 @@
+  CREATE_STREAM @0 {NAME:cfg_seq T:Transactions SCOPE:uvm_test_top.env.cfg_ag.seqr STREAM:1246}
+  CREATE_STREAM @1410 {NAME:item_seq_hdl T:Transactions SCOPE:uvm_test_top.env.item_ag.seqr STREAM:1689}
+  CREATE_STREAM @1420 {NAME:currency_seq_hdl T:Transactions SCOPE:uvm_test_top.env.currency_ag.seqr STREAM:1706}
+  CREATE_STREAM @2965 {NAME:i_user T:Transactions SCOPE:uvm_test_top.env.item_ag.seqr STREAM:2313}
+  CREATE_STREAM @2975 {NAME:c_user T:Transactions SCOPE:uvm_test_top.env.currency_ag.seqr STREAM:2321}
+  CREATE_STREAM @3245 {NAME:i_b2b T:Transactions SCOPE:uvm_test_top.env.item_ag.seqr STREAM:2369}
+  CREATE_STREAM @3255 {NAME:c_b2b T:Transactions SCOPE:uvm_test_top.env.currency_ag.seqr STREAM:2377}
